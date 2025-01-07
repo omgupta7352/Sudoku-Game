@@ -30,7 +30,7 @@ Welcome to the **Sudoku Game**! It is an interactive web-based game that allows 
 
 ## Demo
 
-You can try out the game live [here](https://omgupta7352.github.io/Tic-Tac-Toe/).
+You can try out the game live [here](https://game-sudo-ku.netlify.app/).
 
 ## Installation
 
