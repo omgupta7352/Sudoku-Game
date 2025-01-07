@@ -1,5 +1,6 @@
 # Sudoku Game
-![Sudoku Solver Game](tic-tac-toe.png)
+![Sudoku Game](sudoku1.png)
+![](sudoku2.png)
 
 
 Welcome to the **Sudoku Game**! It is an interactive web-based game that allows users to play Sudoku and provides a solver feature to automatically complete the puzzle. The project uses **HTML**, **CSS**, and **JavaScript** to create an intuitive interface and implement the logic for solving Sudoku puzzles.
