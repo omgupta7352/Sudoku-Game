@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sudoku Game</title>
+
+    <link
+      rel="stylesheet"
+      href="http://fonts.googleapis.com/css?family=Montserrat"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>My Sudoku Game</li>
+      </ul>
+    </nav>
+
+    <div class="sudoku-bk">
+      <div class="sudoku-game"></div>
+    </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="sudoku.js"></script>
+    <script>
+      $(document).ready(function () {
+        $(".sudoku-game").sudoku({});
+      });
+    </script>
+  </body>
+</html>
